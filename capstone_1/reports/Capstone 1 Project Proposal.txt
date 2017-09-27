@@ -1,0 +1,20 @@
+Bret Marshall
+Capstone 1 project proposal
+1. What is the problem you want to solve?
+
+        In this project I would like to solve and investigate a multitude of problems associated with traffic stops in the this country.  Such as how race/gender/age plays into who is stopped, who is then ticketed or searched, and how that has changed over time.  Which parts of a state are stops most likely to occur and when. As well as questions that will likely arise along the way.
+
+2. Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
+
+        The client or clients that would most likely care about these study would be the citizens of the USA as well as the Justice Department, spotting particular biases, trends in traffic stops, or where they are falling short as a department.  They would be able to see with this study where they need to make changes in their department.
+
+3. What data are you going to use for this? How will you acquire this data?
+
+        I will be using a data set from Stanford's open policing project.  The data provides information on 130 million traffic stops across 31 states.
+
+4. In brief, outline your approach to solving this problem (knowing that this might change later).
+
+        I will be begin by cleaning the data, then I will delve into the data, see what trends I can discover, then I will use machine learning to predict trends in other states.
+5. What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
+
+        The deliverables at the end of this project will be a report that will including my findings with associated data and visual representation when helpful along with the code used to investigate the data set
